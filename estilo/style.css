@@ -86,10 +86,10 @@ form > input[type=submit]:hover{
 form > a.botao{
     display: block;
     text-align: center;
-    font-size: 1em;
+    font-size: 0.9em;
     width: 100%;
-    height: 40px; 
-    margin-top: 5px;
+    height: 32px; 
+    margin-top: 4px;
     padding-top: 7px;
     background-color: white;
     color: #2d6462;
